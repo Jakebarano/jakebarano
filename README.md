@@ -1,12 +1,23 @@
-> Generalist Game Programmer and Front-End Enthusiast
+> ## Generalist Game Programmer
+## Tech Stack >
+```diff
++ Game Engines: Unity, Unreal
++ Langs: C++, C#, JS, CSS+HTML, Python
++ Interests: Game Development, Web Dev.  
+```  
+## Porfolios >
+![jakebarano's Stats](https://github-readme-stats.vercel.app/api?username=jakebarano&theme=blue-green&show_icons=true&hide_border=true&count_private=true)  
+### [Portfolio Website](https://jakebarano.github.io/Portfolio-website/) 
+> [!NOTE]
+> My Portfolio is a **Work in Progress**, many [links]() or Buttons may not lead you to new pages or trigger events.
 
-### Tech Stack
-- Game Engines: Unity, Unreal
-- Interests: C++, C#
+## Current Work >
+[Dual Shadows](https://megacheeky.itch.io/dual-shadows)
+> Third person hack and slash that fuses melee and ranged combat.
 
-### Porfolio
-![jakebarano's Stats](https://github-readme-stats.vercel.app/api?username=jakebarano&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-
+[Procedural Terrain Generation]()
+> Personal Project showcasing my understanding of several Graphics Techniques in a Tech Demo
+  
 ![GitHub last commit](https://img.shields.io/github/last-commit/jakebarano/jakebarano)
 ![pv](https://pageview.vercel.app/?github_user=jakebarano)
 
