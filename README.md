@@ -9,7 +9,7 @@
 ![jakebarano's Stats](https://github-readme-stats.vercel.app/api?username=jakebarano&theme=blue-green&show_icons=true&hide_border=true&count_private=true)  
 ### [Portfolio Website](https://jakebarano.github.io/Portfolio-website/) 
 > [!NOTE]
-> My Portfolio is a **Work in Progress**, many [links]() or Buttons may not lead you to new pages or trigger events.
+> My Portfolio Website is a **Work in Progress**, many [links]() or Buttons may not lead you to new pages or trigger events.
 
 ## Current Work >
 [Dual Shadows](https://megacheeky.itch.io/dual-shadows)
